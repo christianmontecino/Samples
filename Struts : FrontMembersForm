@@ -1,0 +1,60 @@
+package com.water.reports;
+
+import javax.servlet.http.HttpServletRequest;
+import org.apache.struts.action.ActionError;
+import org.apache.struts.action.ActionErrors;
+import org.apache.struts.action.ActionForm;
+import org.apache.struts.action.ActionMapping;
+
+public final class FrontMembersForm extends ActionForm {
+
+	private String rep = "";
+	private String action = "";
+	private int from = 0;
+	private int pagination = 10;
+
+	public String getRep() {
+		return (this.rep);
+	}
+
+	public void setRep(String a) {
+		this.rep = a;
+	}
+
+	public String getAction() {
+		return (this.action);
+	}
+
+	public void setAction(String b) {
+		this.action = b;
+	}
+
+	public int getFrom() {
+		return (this.from);
+	}
+
+	public void setFrom(int a) {
+		this.from = a;
+	}
+
+	public int getPagination() {
+		return (this.pagination);
+	}
+
+	public void setPagination(int b) {
+		this.pagination = b;
+	}
+
+	public void reset(ActionMapping mapping, HttpServletRequest request) {
+	}
+
+	public ActionErrors validate(ActionMapping mapping,
+			HttpServletRequest request) {
+
+		ActionErrors errors = new ActionErrors();
+
+		return errors;
+
+	}
+
+}
