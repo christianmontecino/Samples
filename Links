@@ -1,1 +1,20 @@
+Spring & Hibernate
 http://66.245.237.166:8080/sdnext/
+
+http://www.newspress.com (Main News website for Santa Barbara News-Press – J2EE). 
+If link is accessed from mobile device, it will redirect to Mobile site: http://www.newspress.com/mobile/ (JQuery Mobile – J2EE)
+
+http://www.newspress.tv (Video streaming website for Santa Barbara News-Press TV – NPTV – J2EE). 
+If link is accessed from mobile device, it will redirect to Mobile site: http://tv.newspress.com/mobile/index.html (JQuery Mobile – J2EE)
+
+https://itunes.apple.com/app/santa-barbara-news-press/id505670616?mt=8 (Native iPhone+iPad apps)https://play.google.com/store/apps/details?id=com.sbnpress.com (Native Android app)
+
+http://www.newspress.com/sbnp_content/11122014/ (Virtual newspaper example)www.newspress.com/realestate (Virtual edition of Real-Estate magazine)
+
+http://www.newspress.com/openhomes (Website showing Open Homes in SB and surrounding areas – J2EE)
+
+http://morenews.newspress.com/sbnp_web/keystoparadise_2014/ (Special Publication -Real-Estate – Bootstrap - J2EE)
+
+http://morenews.newspress.com/sbnp_web/weddings_2014/main.html (Special Publication - Weddings – J2EE)
+
+http://morenews.newspress.com/sbnp_web/foodanddrink2013/ (Special Publication – Food and Drink – J2EE)
